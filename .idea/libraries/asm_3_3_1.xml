@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="asm-3.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/cglib-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/javassist-3.17.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/log4j-api-2.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/log4j-core-2.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/mybatis-3.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/ojdbc14-10.2.0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/slf4j-log4j12-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
