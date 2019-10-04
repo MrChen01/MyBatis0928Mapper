@@ -5,7 +5,11 @@ public class Test2 {
         System.out.println("test2");
     }
 
-    public void func(){
+    public void func() {
+        System.out.println("funcc");
+    }
 
+    public void func1() {
+        System.out.println("funcc111");
     }
 }
